@@ -1,0 +1,13 @@
+## Title:-|cffFFFFFFConRO|r- Console Port support by |cFF8000FFLith|r
+## Version: 1.0
+## Author: |cFF8000FFLith|r77
+## Notes: Adding support for Console Port
+## Interface: 110100
+## Category: ConRO
+## IconTexture: Interface\AddOns\ConRO_ConsolePort_by_Lith\images\lith-icon.tga
+## SavedVariables: ConROConsolePortDB
+## Dependencies: ConRO, ConsolePort
+## LoadWith: ConRO, ConsolePort
+## LoadOnDemand: 0
+
+ConRO_Port.lua
